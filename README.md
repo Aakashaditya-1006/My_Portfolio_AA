@@ -146,7 +146,7 @@ class AakashAditya:
 <!-- To enable this: create a GitHub Actions workflow that generates the snake SVG -->
 <!-- See: https://github.com/Platane/snk for setup instructions -->
 
-![snake gif](https://github.com/aakashaditya/aakashaditya/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/Aakashaditya-1006/My_Portfolio_AA/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
