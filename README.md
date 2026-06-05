@@ -47,14 +47,14 @@ class AakashAditya:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aakashaditya&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=58A6FF&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashaditya&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aakashaditya-1006&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=58A6FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakashaditya-1006&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=aakashaditya&theme=github-dark&hide_border=true&background=0D1117&stroke=3FB950&ring=58A6FF&fire=FFA657&currStreakLabel=3FB950)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Aakashaditya-1006&theme=github-dark&hide_border=true&background=0D1117&stroke=3FB950&ring=58A6FF&fire=FFA657&currStreakLabel=3FB950)
 
 </div>
 
