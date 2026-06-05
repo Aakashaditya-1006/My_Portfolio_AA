@@ -52,7 +52,7 @@ class AakashAditya:
 
 <div align="center">
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Aakashaditya-1006&theme=github-dark&hide_border=true&background=0D1117&stroke=3FB950&ring=58A6FF&fire=FFA657&currStreakLabel=3FB950)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aakashaditya-1006&theme=github-dark&hide_border=true&background=0D1117&stroke=3FB950&ring=58A6FF&fire=FFA657&currStreakLabel=3FB950)
 
 </div>
 
