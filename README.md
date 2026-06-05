@@ -1,13 +1,10 @@
 <div align="center">
 
-<!-- Animated header banner using capsule-render -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,100:534AB7&height=200&section=header&text=Aakash%20Aditya%20S&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=EEE%20%2B%20AI%2FML%20%7C%20ESP32%20%7C%20Drones%20%7C%20IEEE%20Author&descAlignY=60&descSize=18)
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Building+swarm+drones+%2B+blockchain+comms+%F0%9F%9B%A9%EF%B8%8F;Training+CNNs%2C+BiLSTMs+%26+attention+models+%F0%9F%A7%A0;Firmware+on+STM32+%26+ESP32+since+day+one+%E2%9A%A1;4x+IEEE+Published+%C2%B7+Amrita+Bengaluru+%2726+%F0%9F%8E%93;V2G+simulation+%C2%B7+EV+systems+%C2%B7+smart+grids+%F0%9F%94%8B)](https://github.com/aakashaditya)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Building+swarm+drones+%2B+blockchain+comms+%F0%9F%9B%A9%EF%B8%8F;Training+CNNs%2C+BiLSTMs+%26+attention+models+%F0%9F%A7%A0;Firmware+on+STM32+%26+ESP32+since+day+one+%E2%9A%A1;4x+IEEE+Published+%C2%B7+Amrita+Bengaluru+%2726+%F0%9F%8E%93;V2G+simulation+%C2%B7+EV+systems+%C2%B7+smart+grids+%F0%9F%94%8B)](https://github.com/Aakashaditya-1006)
 
-<!-- Visitor badge + profile views -->
-![Visitors](https://komarev.com/ghpvc/?username=aakashaditya&label=Profile%20Views&color=0e75b6&style=flat)
+![Visitors](https://komarev.com/ghpvc/?username=Aakashaditya-1006&label=Profile%20Views&color=0e75b6&style=flat)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0F6E56?style=flat&logo=framer&logoColor=white)](https://aakashaditportfolio.framer.website/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Gmail](https://img.shields.io/badge/Email-aakashadit2005@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:aakashadit2005@gmail.com)
@@ -98,11 +95,11 @@ class AakashAditya:
 
 | Project | Stack | Status |
 |---|---|---|
-| 🛡️ **[Swarm Drone Blockchain Comms](https://github.com/aakashaditya)** · Secure inter-drone communication using ECDSA, ESP-NOW & Ethereum Sepolia | `ESP32` `Blockchain` `Node.js` `ESP-NOW` | 🟢 Active |
-| ♿ **[Intelligent Wheelchair · DDPG Nav](https://github.com/aakashaditya)** · Autonomous indoor wheelchair with RL + IoT vital monitoring | `PyTorch` `DDPG` `IoT` `Mobile App` | ✅ Done |
-| 🛩️ **[Drone Docking Station](https://github.com/aakashaditya)** · Hybrid wired + wireless fast charging with CC–CV control | `Power Electronics` `ESP32` `CC-CV` | 🟢 Active |
-| ⚡ **[SMART EV-HUB · V2G Simulation](https://github.com/aakashaditya)** · EV charging and Vehicle-to-Grid interaction with Python visualization | `Python` `V2G` `Smart Grid` `PSIM` | ✅ Done |
-| 🤖 **[Bio-Inspired Robot Navigation](https://github.com/aakashaditya)** · GWO & SSA optimizers inside an MPC framework for indoor robots | `Python` `MPC` `GWO` `SSA` | ✅ Done |
+| 🛡️ **[Swarm Drone Blockchain Comms](https://github.com/Aakashaditya-1006)** · Secure inter-drone communication using ECDSA, ESP-NOW & Ethereum Sepolia | `ESP32` `Blockchain` `Node.js` `ESP-NOW` | 🟢 Active |
+| ♿ **[Intelligent Wheelchair · DDPG Nav](https://github.com/Aakashaditya-1006)** · Autonomous indoor wheelchair with RL + IoT vital monitoring | `PyTorch` `DDPG` `IoT` `Mobile App` | ✅ Done |
+| 🛩️ **[Drone Docking Station](https://github.com/Aakashaditya-1006)** · Hybrid wired + wireless fast charging with CC–CV control | `Power Electronics` `ESP32` `CC-CV` | 🟢 Active |
+| ⚡ **[SMART EV-HUB · V2G Simulation](https://github.com/Aakashaditya-1006)** · EV charging and Vehicle-to-Grid interaction with Python visualization | `Python` `V2G` `Smart Grid` `PSIM` | ✅ Done |
+| 🤖 **[Bio-Inspired Robot Navigation](https://github.com/Aakashaditya-1006)** · GWO & SSA optimizers inside an MPC framework for indoor robots | `Python` `MPC` `GWO` `SSA` | ✅ Done |
 
 </div>
 
@@ -143,14 +140,9 @@ class AakashAditya:
 
 <div align="center">
 
-<!-- To enable this: create a GitHub Actions workflow that generates the snake SVG -->
-<!-- See: https://github.com/Platane/snk for setup instructions -->
-
 ![snake gif](https://github.com/Aakashaditya-1006/My_Portfolio_AA/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
-> ℹ️ *To activate the snake animation: add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to your profile repo and push to a branch named `output`.*
 
 ---
 
@@ -186,7 +178,7 @@ class AakashAditya:
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-0F6E56?style=for-the-badge)](https://aakashaditportfolio.framer.website/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aakashaditya)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aakashaditya-1006)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakashadit2005@gmail.com)
 
 </div>
