@@ -52,7 +52,7 @@ class AakashAditya:
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aakashaditya-1006&theme=github-dark&hide_border=true&background=0D1117&stroke=3FB950&ring=58A6FF&fire=FFA657&currStreakLabel=3FB950)
+![GitHub Streak](https://img.shields.io/badge/Streak-Active%20since%202022-3FB950?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
 
 </div>
 
