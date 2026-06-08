@@ -60,26 +60,7 @@ Focus     :
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<a href="https://github.com/Aakashaditya-1006">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aakashaditya-1006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&ring_color=00d4ff" />
-</a>
-<a href="https://github.com/Aakashaditya-1006">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakashaditya-1006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=ffffff&langs_count=8" />
-</a>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Aakashaditya-1006&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=ffffff&dates=888888)](https://github.com/Aakashaditya-1006)
-
-</div>
-
----
 
 ## 🛠️ Tech Arsenal
 
