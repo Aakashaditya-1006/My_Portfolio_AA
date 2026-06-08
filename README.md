@@ -30,8 +30,6 @@
 
 ---
 
-<img align="right" width="360" src="https://github-readme-activity-graph.vercel.app/graph?username=Aakashaditya-1006&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true&area_color=00d4ff" />
-
 ### `> whoami`
 
 ```yaml
