@@ -239,15 +239,6 @@ IoT safety helmet with **gas sensing**, **temperature monitoring**, and **worker
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-
-![snake gif](https://github.com/Aakashaditya-1006/My_Portfolio_AA/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 ## 🏅 Certifications
 
